@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,7 +15,6 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
-    "nodemon": "^2.0.6",
     "sequelize": "^6.3.5",
     "slugify": "^1.4.6"
   }
